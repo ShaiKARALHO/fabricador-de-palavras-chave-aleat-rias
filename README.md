@@ -1,0 +1,1 @@
+# fabricador-de-palavras-chave-aleat-rias
